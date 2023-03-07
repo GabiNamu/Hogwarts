@@ -1,6 +1,6 @@
 # TrybeWarts
 
-TrybeWarts is a project made only for study porpuse for practice some form in react. this application has:
+TrybeWarts is a project made only for study porpuse. This is a form application and has:
 
 - login page;
 - form page;
