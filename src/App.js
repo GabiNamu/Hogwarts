@@ -2,7 +2,7 @@ import { Route, Switch } from 'react-router-dom';
 import './App.css';
 import Home from './Pages/Home';
 import Login from './Pages/login/Login';
-import Send from './Pages/Send';
+import Send from './Pages/send/Send';
 
 function App() {
   return (

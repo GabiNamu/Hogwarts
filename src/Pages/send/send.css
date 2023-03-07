@@ -1,0 +1,13 @@
+.send-container {
+    background-color: beige;
+    height: 100vh;
+    display: flex;
+    gap: 5px;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.send-container > img {
+    width: 200px;
+}
