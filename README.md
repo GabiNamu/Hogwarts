@@ -1,10 +1,10 @@
 # TrybeWarts
 
-TrybeWarts is a project made only for study porpuse for practice some form in react. This application do:
+TrybeWarts is a project made only for study porpuse for practice some form in react. this application has:
 
-- has a login page;
-- a form page;
-- a send page, for feedback;
+- login page;
+- form page;
+- send page, for feedback;
 
 <div align="center" display="inline">
 <img src="./src/images/login.png" alt="login" width="400px" height="250px">
