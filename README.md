@@ -16,12 +16,12 @@ TrybeWarts is a project made only for study porpuse for practice some form in re
 - First clone the repository into your machine;
 
 ```
-git clone git@github.com:GabiNamu/Tryunfo.git
+git clone git@github.com:GabiNamu/Hogwarts.git
 ```
 
 - Go to the project directory:
 ```
-cd Tryunfo
+cd Hogwarts
 ```
  
 - Install dependencies;
