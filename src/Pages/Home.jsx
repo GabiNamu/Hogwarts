@@ -1,13 +1,17 @@
 import React from 'react'
-import Form from '../components/Form';
+import Form from '../components/form/Form';
 import Footer from '../components/Footer';
+import logo from '../images/header-logo.png';
 
 const Home = () => {
   return (
-    <div>
+    <div className='home'>
+      <div className='home-container'>
+        <img src={ logo } alt="logo" />
         <h2>Formulário de avaliação:</h2>
         <Form />
-        <Footer />
+      </div>
+      <Footer />
     </div>
   )
 }
