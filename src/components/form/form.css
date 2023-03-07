@@ -7,6 +7,7 @@ form {
 .home {
     height: 100vh;
     background: linear-gradient(0deg, rgba(89, 89, 89, 0.61), rgba(36, 38, 36, 0.665) 40%, rgba(53, 52, 52, 0.619)), url(../../images/hogwarts.jpeg);
+    background-size: cover;
     display: flex;
     gap: 20px;
     flex-direction: column;
@@ -62,6 +63,11 @@ form > select {
     color: white;
     cursor: pointer;
 }
+
+.submit-button:disabled {
+    background-color: rgba(165, 42, 42, 0.714);
+    cursor:default;
+  }
 
 .home-container > img {
     width: 100px;
